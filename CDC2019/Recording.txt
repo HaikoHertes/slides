@@ -1,0 +1,4 @@
+On "Cloud and Datacenter Conference 2019" in Hanau, Germany, I spoke about "PowerShell - What's new?"
+
+You can find the recording here:
+https://www.youtube.com/watch?v=QwtEeUCwV2o
